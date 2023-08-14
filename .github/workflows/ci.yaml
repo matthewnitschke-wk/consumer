@@ -4,4 +4,4 @@ on:
 
 jobs:
   action:
-    uses: matthewnitschke-wk/provider/.github/workflows/workflow.yaml@master
+    uses: matthewnitschke-wk/provider/.github/workflows/workflow.yaml@main
